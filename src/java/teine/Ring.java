@@ -1,4 +1,4 @@
-package kool;
+package java.teine;
 
 public class Ring {
     public double raadius;
